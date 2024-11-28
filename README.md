@@ -116,6 +116,10 @@ To achieve higher performance, consider using alternative models like **Random F
 - **Keras**: High-level neural network API for model creation.
 - **Scikit-learn**: For data preprocessing (StandardScaler, train-test split).
 - **Pandas**: For data manipulation and preprocessing.
+
+## Acknowledgments
+
+- **ChatGPT:** Special thanks to ChatGPT, which assisted in the exploratory optimization of the deep learning model. Through iterative suggestions and adjustments, it helped refine the model's architecture and performance strategies.
   
 ---
 
